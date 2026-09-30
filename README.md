@@ -648,10 +648,3 @@ Ashrakat Mohsen
 •
 Rania Essam
 
-
-
-
-License
-
-No license has been specified yet. Add a license file, such as MIT License, if you want others to reuse or modify the project.
-
